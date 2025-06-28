@@ -36,3 +36,53 @@ Wireframing is an indispensable part of the design process due to its numerous b
 
 - **Guides the Design Process:**  
   Wireframes act as a foundational guide for all subsequent design and development phases. They ensure that the final product remains consistent with the initial vision and meets the established requirements, maintaining project integrity from conception to completion.
+
+
+---
+
+## 🧱 Key Elements in a Wireframe
+
+Wireframes break down the essential structure of a web page or application screen into a few core elements. These components work together to establish layout, usability, and flow before high-fidelity design or development begins.
+
+### 1. 📐 Layout Structure
+
+**Definition:**  
+The overall skeletal framework that defines how components are arranged on a page.
+
+**Example Contribution:**  
+A homepage layout may include a header at the top, a sidebar on the left, and a content area on the right. This structure helps developers and designers quickly understand where key components like navigation menus or featured content will be placed.
+
+---
+
+### 2. 🧭 Navigation
+
+**Definition:**  
+Navigation refers to the elements that guide users through the site or application, such as menus, breadcrumbs, or tabs.
+
+**Example Contribution:**  
+A top navigation bar with links to “Home,” “Bookings,” “Profile,” and “Support” helps users access key parts of the booking system easily. Including navigation in a wireframe ensures the flow between pages is logical and user-friendly.
+
+---
+
+### 3. 🗂️ Content Placement
+
+**Definition:**  
+The specific locations where text, images, forms, buttons, and other UI components will appear.
+
+**Example Contribution:**  
+In a property booking app, wireframing content placement might involve placing a featured image at the top, a booking form in the middle, and property details below. This helps in prioritizing the most critical user interactions.
+
+---
+
+### 4. ⚙️ Functionality
+
+**Definition:**  
+Represents how users will interact with the system — including buttons, dropdowns, checkboxes, search fields, and interactive components.
+
+**Example Contribution:**  
+Including a “Search Properties” input field with filter dropdowns in a wireframe shows how users will search and sort listings. It helps teams plan how functionality should behave across different screen sizes and states.
+
+---
+
+By identifying and planning these elements early through wireframes, teams ensure that the final design is both user-centered and structurally sound.
+
