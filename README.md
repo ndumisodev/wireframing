@@ -86,3 +86,47 @@ Including a “Search Properties” input field with filter dropdowns in a wiref
 
 By identifying and planning these elements early through wireframes, teams ensure that the final design is both user-centered and structurally sound.
 
+
+
+## 📐 Types of Wireframes
+
+Wireframes are generally categorized into different levels of fidelity, each serving distinct purposes in the design process.
+
+---
+
+### 📝 Low-Fidelity Wireframes
+
+**Definition:**  
+These are the most basic and abstract type of wireframes. They are often hand-drawn sketches or very simple digital layouts that focus solely on the overall structure, layout, and high-level interactions of a page. They typically use basic shapes (rectangles, circles, lines) to represent content and UI elements, and are usually monochromatic (grayscale).
+
+**When Used:**
+
+- **Early-stage concept exploration:** Ideal for brainstorming and quickly sketching out ideas without getting bogged down by details.
+- **Rapid iteration:** Their simplicity makes them quick to create and easy to modify, facilitating rapid testing of different layout approaches.
+- **Team alignment on core structure:** Excellent for initial discussions with stakeholders and developers to agree on the fundamental layout and flow.
+- **Usability testing of basic navigation:** Can be used for early-stage usability tests to identify major navigational issues.
+
+---
+
+### 🎨 High-Fidelity Wireframes
+
+**Definition:**  
+These are more detailed and refined versions of wireframes, bridging the gap between low-fidelity wireframes and final mockups. They include more specific layout details, realistic UI elements (like actual buttons, input fields, and icons), and sometimes even real or representative content. While still not fully styled, they might incorporate some visual markers like placeholder colors or basic typography.
+
+**When Used:**
+
+- **Detailed layout planning:** For planning the precise placement and sizing of elements on a page.
+- **Refining user flows:** To visualize more complex interactions and user journeys in a more concrete way.
+- **Closer stakeholder feedback:** Provides a more tangible representation for stakeholders to give specific feedback on UI elements and content hierarchy.
+- **Transition to UI design:** Serves as a direct blueprint for UI designers to apply visual styling, colors, and branding.
+- **More comprehensive usability testing:** Allows for testing more detailed interactions and content placement with users.
+
+---
+
+### 🔍 Identifying the Provided Wireframe Type
+
+Based on the description of typical high-fidelity wireframes—which include more detailed UI elements, often realistic-looking components, and a refined layout that moves beyond basic shapes—the type of wireframe that would be provided for a frontend developer to use as a basis for implementation would be a **high-fidelity wireframe**.
+
+This level of detail provides the necessary specificity for a developer to accurately translate the design into code.
+
+
